@@ -1,12 +1,12 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>Chen, L.</strong>; Luo, X.; Zhou, H.; Shen, Q.; Chen, L.; Huan, C. Underwater Acoustic Multi-Target Recognition Based on Channel Attention Mechanism. Ocean Engineering 2025, 315, 119841, doi:10.1016/j.oceaneng.2024.119841.
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Chen, L.</strong>; Luo, X.; Zhou, H. A Ship-Radiated Noise Classification Method Based on Domain Knowledge Embedding and Attention Mechanism. Engineering Applications of Artificial Intelligence 2024, 127, 107320, doi:10.1016/j.engappai.2023.107320.
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Chen, L.</strong>; Luo, X.; Zhou, H. A Hierarchical Underwater Acoustic Target Recognition Method Based on Transformer and Transfer Learning. In Proceedings of the 2024 6th International Conference on Image, Video and Signal Processing; ACM: Ikuta Japan, March 14 2024; pp. 16–24.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Luo, X.; <strong>Chen, L.</strong>; Zhou, H.; Cao, H. A Survey of Underwater Acoustic Target Recognition Methods Based on Machine Learning. JMSE 2023, 11, 384, doi:10.3390/jmse11020384.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Zhou, H.; Luo, X.; <strong>Chen, L.</strong> The Weak Modulation Line Spectrum Enhancement and Detection Method for Ship Radiated Noise in the Absence of Prior Information. Applied Acoustics 2024, 226, 110211, doi:10.1016/j.apacoust.2024.110211.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Zhou, H.; Luo, X.; <strong>Chen, L.</strong> A Weak Acoustic Signal Line-Spectrum Detection Method Based on Stochastic Resonance. In Proceedings of the 2023 6th International Conference on Information Communication and Signal Processing (ICICSP); September 2023; pp. 471–475.
 

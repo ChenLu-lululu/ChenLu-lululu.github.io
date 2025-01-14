@@ -1,16 +1,13 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+Visiting Ph.D. of National University of Singapore. Ph.D. candidate at Southeast University.
+I am a visiting student at National University of Singapore, advised by Prof. Kenji Kawaguchi since 2025. I am pursuing my Ph.D. in southeast University, under the supervision of Prof. Xinwei Luo. I completed my M.S. in Sofeware engineering from Shanghai University in 2021.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
-#### Email
-sli[at]cumt.edu.cn
+### Email
+230228256[at]seu.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+### Research Interests
+My research focused on Deep Learning and acoustic signal processing. Including acoustic target recognition, multi-target recognition, and weak-target recognition.
 
