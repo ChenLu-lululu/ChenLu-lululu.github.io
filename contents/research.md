@@ -1,0 +1,1 @@
+My research focused on Deep Learning and acoustic signal processing. Including acoustic target recognition, multi-target recognition, and weak-target recognition.

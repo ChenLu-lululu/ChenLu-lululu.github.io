@@ -8,6 +8,3 @@ I am a visiting student at National University of Singapore, advised by Prof. Ke
 230228256[at]seu.edu.cn
 
 
-### Research Interests
-My research focused on Deep Learning and acoustic signal processing. Including acoustic target recognition, multi-target recognition, and weak-target recognition.
-
